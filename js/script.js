@@ -49,4 +49,4 @@ function fib(num) {
     return result;
 }
 
-fib(5)*/
+// fib(5)*/
